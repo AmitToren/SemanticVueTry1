@@ -1,3 +1,6 @@
+Try semantic with vue 
+*Try semantic with react*
+
 # test-project
 
 > A Vue.js project

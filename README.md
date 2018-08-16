@@ -1,5 +1,5 @@
-Try semantic with vue 
-*Try semantic with react*
+## Try semantic with vue 
+## *Try semantic with react*
 
 # test-project
 
